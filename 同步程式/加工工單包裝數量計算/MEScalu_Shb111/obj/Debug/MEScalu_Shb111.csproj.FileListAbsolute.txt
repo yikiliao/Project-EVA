@@ -1,0 +1,73 @@
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\TRawBasicDay\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csprojAssemblyReference.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案信件通知\MEScalu_Shb111 - v2\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案數量計算(有問題要重寫)\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\工單結案數量計算\MEScalu_Shb111\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csprojAssemblyReference.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算 - X\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csprojAssemblyReference.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\bin\Debug\MEScalu_Shb111.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\加工工單包裝數量計算v1\MEScalu_Shb111\obj\Debug\MEScalu_Shb111.pdb

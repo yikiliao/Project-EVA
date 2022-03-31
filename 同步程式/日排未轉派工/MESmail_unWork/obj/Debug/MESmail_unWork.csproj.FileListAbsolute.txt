@@ -1,0 +1,17 @@
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\bin\Debug\MESmail_unWork.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\bin\Debug\MESmail_unWork.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\bin\Debug\MESmail_unWork.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\obj\Debug\MESmail_unWork.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\obj\Debug\MESmail_unWork.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\obj\Debug\MESmail_unWork.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\obj\Debug\MESmail_unWork.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_Close - V1\obj\Debug\MESmail_unWork.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\bin\Debug\MESmail_unWork.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\bin\Debug\MESmail_unWork.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\bin\Debug\MESmail_unWork.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.exe
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\7_生管外掛\工單結案同步信件通知\日排未轉派工\MESmail_unWork\obj\Debug\MESmail_unWork.csprojAssemblyReference.cache

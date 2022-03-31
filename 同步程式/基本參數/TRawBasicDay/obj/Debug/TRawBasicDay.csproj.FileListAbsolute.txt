@@ -1,0 +1,64 @@
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\成本計算\轉檔程式\TRawBasicDay\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\料號轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csprojAssemblyReference.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.csprojAssemblyReference.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業 - n1\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
+D:\歸類資料\1_鎔利\鎔利_開發中程式\假 MES\鎔利_MES轉檔作業\TRawBasicDay\obj\Debug\TRawBasicDay.csprojAssemblyReference.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數\TRawBasicDay\obj\Debug\TRawBasicDay.csprojAssemblyReference.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\bin\Debug\TRawBasicDay.exe.config
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\bin\Debug\TRawBasicDay.exe
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\bin\Debug\TRawBasicDay.pdb
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.Properties.Resources.resources
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.GenerateResource.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CoreCompileInputs.cache
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.csproj.CopyComplete
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.exe
+D:\歸類資料\3_大蒲美MES\開發程式\1_同步程式\基本參數 - v1\TRawBasicDay\obj\Debug\TRawBasicDay.pdb
