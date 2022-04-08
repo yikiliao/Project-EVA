@@ -1,0 +1,43 @@
+C:\VS2013\HRMmail_Back\bin\Release\HRMmail_Back.exe.config
+C:\VS2013\HRMmail_Back\bin\Release\HRMmail_Back.exe
+C:\VS2013\HRMmail_Back\bin\Release\HRMmail_Back.pdb
+C:\VS2013\HRMmail_Back\obj\Release\HRMmail_Back.csprojResolveAssemblyReference.cache
+C:\VS2013\HRMmail_Back\obj\Release\HRMmail_Back.Properties.Resources.resources
+C:\VS2013\HRMmail_Back\obj\Release\HRMmail_Back.csproj.GenerateResource.Cache
+C:\VS2013\HRMmail_Back\obj\Release\HRMmail_Back.exe
+C:\VS2013\HRMmail_Back\obj\Release\HRMmail_Back.pdb
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe.config
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.exe
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.pdb
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.pdb
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.Properties.Resources.resources
+C:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csproj.GenerateResource.Cache
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe.config
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.pdb
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csprojAssemblyReference.cache
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.Properties.Resources.resources
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csproj.GenerateResource.cache
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.exe
+D:\VS2013\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\bin\Release\HRMmail_Back.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\bin\Release\HRMmail_Back.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\bin\Release\HRMmail_Back.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back - v1\obj\Release\HRMmail_Back.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\bin\Release\HRMmail_Back.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM回聘人員通知\HRMmail_Back\obj\Release\HRMmail_Back.pdb

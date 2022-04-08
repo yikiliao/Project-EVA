@@ -1,0 +1,43 @@
+C:\VS2013\HRMmail_Leav\bin\Release\HRMmail_Leav.exe.config
+C:\VS2013\HRMmail_Leav\bin\Release\HRMmail_Leav.exe
+C:\VS2013\HRMmail_Leav\bin\Release\HRMmail_Leav.pdb
+C:\VS2013\HRMmail_Leav\obj\Release\HRMmail_Leav.csprojResolveAssemblyReference.cache
+C:\VS2013\HRMmail_Leav\obj\Release\HRMmail_Leav.Properties.Resources.resources
+C:\VS2013\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.GenerateResource.Cache
+C:\VS2013\HRMmail_Leav\obj\Release\HRMmail_Leav.exe
+C:\VS2013\HRMmail_Leav\obj\Release\HRMmail_Leav.pdb
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe.config
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.exe
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.pdb
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.pdb
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.Properties.Resources.resources
+C:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.GenerateResource.Cache
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe.config
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.pdb
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csprojAssemblyReference.cache
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.Properties.Resources.resources
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.GenerateResource.cache
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.exe
+D:\VS2013\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\bin\Release\HRMmail_Leav.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav\obj\Release\HRMmail_Leav.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\bin\Release\HRMmail_Leav.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\bin\Release\HRMmail_Leav.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\bin\Release\HRMmail_Leav.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM離職人員通知\HRMmail_Leav - v1\obj\Release\HRMmail_Leav.csprojAssemblyReference.cache

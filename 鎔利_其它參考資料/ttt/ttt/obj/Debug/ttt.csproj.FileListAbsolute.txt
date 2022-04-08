@@ -1,0 +1,14 @@
+D:\練習 Exercise\ttt\ttt\bin\Debug\ttt.exe.config
+D:\練習 Exercise\ttt\ttt\bin\Debug\ttt.exe
+D:\練習 Exercise\ttt\ttt\bin\Debug\ttt.pdb
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.csprojAssemblyReference.cache
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.Properties.Resources.resources
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.csproj.GenerateResource.cache
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.exe
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.pdb
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.Form1.resources
+D:\練習 Exercise\ttt\ttt\bin\Debug\Newtonsoft.Json.dll
+D:\練習 Exercise\ttt\ttt\bin\Debug\Newtonsoft.Json.xml
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.csproj.CopyComplete
+D:\練習 Exercise\ttt\ttt\obj\Debug\ttt.PRT016.resources

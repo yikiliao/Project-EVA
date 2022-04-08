@@ -1,0 +1,34 @@
+C:\VS2013\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe.config
+C:\VS2013\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe
+C:\VS2013\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.pdb
+C:\VS2013\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csprojResolveAssemblyReference.cache
+C:\VS2013\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.Properties.Resources.resources
+C:\VS2013\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.GenerateResource.Cache
+C:\VS2013\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.exe
+C:\VS2013\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.pdb
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe.config
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.exe
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.pdb
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.Properties.Resources.resources
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.GenerateResource.Cache
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe
+C:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.pdb
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe.config
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.pdb
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csprojAssemblyReference.cache
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.Properties.Resources.resources
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.GenerateResource.cache
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.exe
+D:\VS2013\HRM本月統計通知\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.pdb
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe.config
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.exe
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\bin\Release\HRMmail_Mtotal.pdb
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csprojAssemblyReference.cache
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.Properties.Resources.resources
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.GenerateResource.cache
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.exe
+D:\VS2013\HRM外掛系統\HRM本月統計通知 - v\HRMmail_Mtotal\obj\Release\HRMmail_Mtotal.pdb

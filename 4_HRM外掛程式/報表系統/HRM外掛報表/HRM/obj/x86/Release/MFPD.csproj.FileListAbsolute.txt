@@ -1,0 +1,141 @@
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\MFPD.exe
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\EVA製造外掛\MFPD\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.csprojResolveAssemblyReference.cache
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Form1.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfd001a.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfd001.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfd001Q.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.wWkno.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.Login.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.Home.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.ssi999.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Properties.Resources.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.csproj.GenerateResource.Cache
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfr001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\EVA製造外掛 - 190312\MFPD\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.csprojResolveAssemblyReference.cache
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Form1.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.BM.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.BM1.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.mfd001a.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.mfd001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.mfd001Q.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.mfr001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.wWkno.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.Login.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR01001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR01101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR02001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR02101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR03001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR03101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR03201.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR04001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR04101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR04201.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR04301.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR04401.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR05001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR05101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR05201.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR06001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR07001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR07101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR07201.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR07301.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR08001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR09001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR09101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR10001.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR10101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR11101.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.Mainbody.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.Home.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.PR.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.ssi901.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.ssi901w.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.ssi902.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.ssi999.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Forms.ssi904.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.Properties.Resources.resources
+C:\VS2013\EVA製造外掛 - 190312\MFPD\obj\x86\Release\MFPD.csproj.GenerateResource.Cache
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.csprojResolveAssemblyReference.cache
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Form1.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001a.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001Q.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfr001.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.wWkno.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.Login.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.Home.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Forms.ssi999.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.Properties.Resources.resources
+C:\VS2013\EVA製造外掛 - 190312 -ok\MFPD\obj\x86\Release\MFPD.csproj.GenerateResource.Cache
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.csprojResolveAssemblyReference.cache
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Form1.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001a.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfd001Q.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.mfr001.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.wWkno.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.Login.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.Home.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Forms.ssi999.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.Properties.Resources.resources
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\obj\x86\Release\MFPD.csproj.GenerateResource.Cache
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\EVA製造外掛 - 1903121 -ok\MFPD\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\MFPD.exe
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\MFPD.pdb
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\EVA製造外掛 - new\MFPD\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.csprojResolveAssemblyReference.cache
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Form1.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfd001a.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfd001.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfd001Q.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfr001.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.wWkno.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.Login.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.Home.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.ssi999.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Properties.Resources.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.csproj.GenerateResource.Cache
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfd000.resources
+C:\VS2013\EVA製造外掛 - new\MFPD\obj\x86\Release\MFPD.Forms.mfd000a.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfd000.resources
+C:\VS2013\EVA製造外掛\MFPD\obj\x86\Release\MFPD.Forms.mfd000a.resources
+C:\VS2013\HRM外掛報表 - 改版\MFPD\bin\Release\MFPD.exe.config
+C:\VS2013\HRM外掛報表 - 改版\MFPD\obj\x86\Release\MFPD.exe
+C:\VS2013\HRM外掛報表 - 改版\MFPD\obj\x86\Release\MFPD.pdb

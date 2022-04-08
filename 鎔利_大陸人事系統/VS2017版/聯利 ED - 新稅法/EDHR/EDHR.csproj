@@ -1,0 +1,1869 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D23F132-DC5A-4078-A734-DCAD276C3BB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EDHR</RootNamespace>
+    <AssemblyName>EDHR</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files\Oracle Developer Tools for VS2013\odp.net\managed\common\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="Crpts\CrystalReport_crr001_P.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr001_P.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr001.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr001.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr002.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr002.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr002_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr002_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr004.cs">
+      <DependentUpon>CrystalReport_crr004.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr024_ms.cs">
+      <DependentUpon>CrystalReport_crr024_ms.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr024_cdept.cs">
+      <DependentUpon>CrystalReport_crr024_cdept.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr024_dt.cs">
+      <DependentUpon>CrystalReport_crr024_dt.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr030S.cs">
+      <DependentUpon>CrystalReport_crr030S.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr031.cs">
+      <DependentUpon>CrystalReport_crr031.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr030.cs">
+      <DependentUpon>CrystalReport_crr030.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr040X.cs">
+      <DependentUpon>CrystalReport_crr040X.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr045.cs">
+      <DependentUpon>CrystalReport_crr045.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr045_xls.cs">
+      <DependentUpon>CrystalReport_crr045_xls.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_qrr002_2.cs">
+      <DependentUpon>CrystalReport_qrr002_2.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_qrr002_1.cs">
+      <DependentUpon>CrystalReport_qrr002_1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_qrr002.cs">
+      <DependentUpon>CrystalReport_qrr002.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr044.cs">
+      <DependentUpon>CrystalReport_crr044.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr042.cs">
+      <DependentUpon>CrystalReport_crr042.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr040S.cs">
+      <DependentUpon>CrystalReport_crr040S.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr040L.cs">
+      <DependentUpon>CrystalReport_crr040L.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr038.cs">
+      <DependentUpon>CrystalReport_crr038.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr036.cs">
+      <DependentUpon>CrystalReport_crr036.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr034.cs">
+      <DependentUpon>CrystalReport_crr034.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr033.cs">
+      <DependentUpon>CrystalReport_crr033.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr032.cs">
+      <DependentUpon>CrystalReport_crr032.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr016.cs">
+      <DependentUpon>CrystalReport_crr016.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr015.cs">
+      <DependentUpon>CrystalReport_crr015.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr014.cs">
+      <DependentUpon>CrystalReport_crr014.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr013.cs">
+      <DependentUpon>CrystalReport_crr013.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr012.cs">
+      <DependentUpon>CrystalReport_crr012.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr003.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr003.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr009.cs">
+      <DependentUpon>CrystalReport_crr009.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008.cs">
+      <DependentUpon>CrystalReport_crr008.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr007.cs">
+      <DependentUpon>CrystalReport_crr007.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr006.cs">
+      <DependentUpon>CrystalReport_crr006.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr005.cs">
+      <DependentUpon>CrystalReport_crr005.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008_3.cs">
+      <DependentUpon>CrystalReport_crr008_3.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008_2.cs">
+      <DependentUpon>CrystalReport_crr008_2.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008_1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr008_1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008_4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr008_4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr008_5.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr008_5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr018.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr018.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr028.cs">
+      <DependentUpon>CrystalReport_crr028.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr024_xls.cs">
+      <DependentUpon>CrystalReport_crr024_xls.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr024.cs">
+      <DependentUpon>CrystalReport_crr024.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr023_xls.cs">
+      <DependentUpon>CrystalReport_crr023_xls.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr023.cs">
+      <DependentUpon>CrystalReport_crr023.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr026.cs">
+      <DependentUpon>CrystalReport_crr026.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr025.cs">
+      <DependentUpon>CrystalReport_crr025.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr022.cs">
+      <DependentUpon>CrystalReport_crr022.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr020.cs">
+      <DependentUpon>CrystalReport_crr020.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Crpts\CrystalReport_crr019.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport_crr019.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr045.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr045.Designer.cs">
+      <DependentUpon>crr045.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri019Q.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri019Q.Designer.cs">
+      <DependentUpon>pri019Q.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri046.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri046.Designer.cs">
+      <DependentUpon>pri046.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri130.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri130.Designer.cs">
+      <DependentUpon>pri130.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\qrr205.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\qrr205.Designer.cs">
+      <DependentUpon>qrr205.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr044.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr044.Designer.cs">
+      <DependentUpon>crr044.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr042.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr042.Designer.cs">
+      <DependentUpon>crr042.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr030.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr030.Designer.cs">
+      <DependentUpon>crr030.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr031.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr031.Designer.cs">
+      <DependentUpon>crr031.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr040.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr040.Designer.cs">
+      <DependentUpon>crr040.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr038.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr038.Designer.cs">
+      <DependentUpon>crr038.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr036.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr036.Designer.cs">
+      <DependentUpon>crr036.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr034.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr034.Designer.cs">
+      <DependentUpon>crr034.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr033.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr033.Designer.cs">
+      <DependentUpon>crr033.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr032.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr032.Designer.cs">
+      <DependentUpon>crr032.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr028.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr028.Designer.cs">
+      <DependentUpon>crr028.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr024.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr024.Designer.cs">
+      <DependentUpon>crr024.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr023.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr023.Designer.cs">
+      <DependentUpon>crr023.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr026.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr026.Designer.cs">
+      <DependentUpon>crr026.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr025.Designer.cs">
+      <DependentUpon>crr025.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr022.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr022.Designer.cs">
+      <DependentUpon>crr022.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr020.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr020.Designer.cs">
+      <DependentUpon>crr020.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr019.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr019.Designer.cs">
+      <DependentUpon>crr019.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr018.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr018.Designer.cs">
+      <DependentUpon>crr018.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr016.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr016.Designer.cs">
+      <DependentUpon>crr016.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr015.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr015.Designer.cs">
+      <DependentUpon>crr015.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr014.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr014.Designer.cs">
+      <DependentUpon>crr014.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr013.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr013.Designer.cs">
+      <DependentUpon>crr013.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr012.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr012.Designer.cs">
+      <DependentUpon>crr012.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr009.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr009.Designer.cs">
+      <DependentUpon>crr009.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr008.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr008.Designer.cs">
+      <DependentUpon>crr008.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr007.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr007.Designer.cs">
+      <DependentUpon>crr007.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr006.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr006.Designer.cs">
+      <DependentUpon>crr006.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr005.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr005.Designer.cs">
+      <DependentUpon>crr005.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr004.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr004.Designer.cs">
+      <DependentUpon>crr004.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr003.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr003.Designer.cs">
+      <DependentUpon>crr003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr002.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr002.Designer.cs">
+      <DependentUpon>crr002.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\crr001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\crr001.Designer.cs">
+      <DependentUpon>crr001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri001.Designer.cs">
+      <DependentUpon>pri001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri115.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri115.Designer.cs">
+      <DependentUpon>pri115.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri110.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri110.designer.cs">
+      <DependentUpon>pri110.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri100.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri100.designer.cs">
+      <DependentUpon>pri100.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\wPrno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\wPrno.designer.cs">
+      <DependentUpon>wPrno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\wCdept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\wCdept.designer.cs">
+      <DependentUpon>wCdept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\CalcuteTax.cs" />
+    <Compile Include="Models\Conn.cs" />
+    <Compile Include="Models\mcrr034.cs" />
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR01001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR01001.designer.cs">
+      <DependentUpon>PR01001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR01101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR01101.designer.cs">
+      <DependentUpon>PR01101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR02001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR02001.designer.cs">
+      <DependentUpon>PR02001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR02101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR02101.designer.cs">
+      <DependentUpon>PR02101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR03001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR03001.designer.cs">
+      <DependentUpon>PR03001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR03101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR03101.designer.cs">
+      <DependentUpon>PR03101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR03201.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR03201.designer.cs">
+      <DependentUpon>PR03201.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR04001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR04001.designer.cs">
+      <DependentUpon>PR04001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR04101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR04101.designer.cs">
+      <DependentUpon>PR04101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR04201.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR04201.designer.cs">
+      <DependentUpon>PR04201.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR04301.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR04301.designer.cs">
+      <DependentUpon>PR04301.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR04401.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR04401.designer.cs">
+      <DependentUpon>PR04401.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR05001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR05001.designer.cs">
+      <DependentUpon>PR05001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR05101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR05101.designer.cs">
+      <DependentUpon>PR05101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR05201.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR05201.designer.cs">
+      <DependentUpon>PR05201.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR06001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR06001.designer.cs">
+      <DependentUpon>PR06001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR07001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR07001.designer.cs">
+      <DependentUpon>PR07001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR07101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR07101.designer.cs">
+      <DependentUpon>PR07101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR07201.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR07201.designer.cs">
+      <DependentUpon>PR07201.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR07301.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR07301.designer.cs">
+      <DependentUpon>PR07301.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR08001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR08001.designer.cs">
+      <DependentUpon>PR08001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR09001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR09001.designer.cs">
+      <DependentUpon>PR09001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR09101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR09101.designer.cs">
+      <DependentUpon>PR09101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR10001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR10001.designer.cs">
+      <DependentUpon>PR10001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR10101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR10101.designer.cs">
+      <DependentUpon>PR10101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR11101.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR11101.designer.cs">
+      <DependentUpon>PR11101.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Mainbody.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Mainbody.Designer.cs">
+      <DependentUpon>Mainbody.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\menuw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\menuw.designer.cs">
+      <DependentUpon>menuw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PR.designer.cs">
+      <DependentUpon>PR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri011.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri011.designer.cs">
+      <DependentUpon>pri011.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri021.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri021.designer.cs">
+      <DependentUpon>pri021.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\prr001.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\prr001.Designer.cs">
+      <DependentUpon>prr001.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\prr021.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\prr021.Designer.cs">
+      <DependentUpon>prr021.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReportView.designer.cs">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi001w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi001w.designer.cs">
+      <DependentUpon>ssi001w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi011.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi011.designer.cs">
+      <DependentUpon>ssi011.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi011w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi011w.designer.cs">
+      <DependentUpon>ssi011w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri003.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri003.designer.cs">
+      <DependentUpon>pri003.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri019.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri019.designer.cs">
+      <DependentUpon>pri019.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri006.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri006.Designer.cs">
+      <DependentUpon>pri006.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri006w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri006w.designer.cs">
+      <DependentUpon>pri006w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\nti001w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\nti001w.designer.cs">
+      <DependentUpon>nti001w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri001w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri001w.designer.cs">
+      <DependentUpon>pri001w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri022.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri022.designer.cs">
+      <DependentUpon>pri022.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi901.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi901.designer.cs">
+      <DependentUpon>ssi901.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi901w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi901w.designer.cs">
+      <DependentUpon>ssi901w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi903.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi903.designer.cs">
+      <DependentUpon>ssi903.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri023.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri023.designer.cs">
+      <DependentUpon>pri023.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri038.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri038.designer.cs">
+      <DependentUpon>pri038.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri020.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri020.designer.cs">
+      <DependentUpon>pri020.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri030.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri030.designer.cs">
+      <DependentUpon>pri030.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri019w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri019w.designer.cs">
+      <DependentUpon>pri019w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri034.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri034.designer.cs">
+      <DependentUpon>pri034.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri035.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri035.designer.cs">
+      <DependentUpon>pri035.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri040.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri040.designer.cs">
+      <DependentUpon>pri040.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri036.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri036.Designer.cs">
+      <DependentUpon>pri036.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri037.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri037.Designer.cs">
+      <DependentUpon>pri037.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri041.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri041.designer.cs">
+      <DependentUpon>pri041.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri025.designer.cs">
+      <DependentUpon>pri025.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri027.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri027.Designer.cs">
+      <DependentUpon>pri027.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri042.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri042.designer.cs">
+      <DependentUpon>pri042.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri026.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri026.designer.cs">
+      <DependentUpon>pri026.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri043.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri043.designer.cs">
+      <DependentUpon>pri043.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri013.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri013.Designer.cs">
+      <DependentUpon>pri013.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri012.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri012.Designer.cs">
+      <DependentUpon>pri012.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri0081.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri0081.designer.cs">
+      <DependentUpon>pri0081.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri008.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri008.Designer.cs">
+      <DependentUpon>pri008.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi999.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi999.Designer.cs">
+      <DependentUpon>ssi999.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri044.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri044.designer.cs">
+      <DependentUpon>pri044.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri029.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri029.designer.cs">
+      <DependentUpon>pri029.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ssi904.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ssi904.designer.cs">
+      <DependentUpon>ssi904.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri045.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri045.designer.cs">
+      <DependentUpon>pri045.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\pri016w.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\pri016w.designer.cs">
+      <DependentUpon>pri016w.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailto.cs" />
+    <Compile Include="Models\DBConnector.cs" />
+    <Compile Include="Models\mcrr001.cs" />
+    <Compile Include="Models\mcrr002.cs" />
+    <Compile Include="Models\mcrr003.cs" />
+    <Compile Include="Models\mcrr004.cs" />
+    <Compile Include="Models\mcrr008.cs" />
+    <Compile Include="Models\mcrr0081.cs" />
+    <Compile Include="Models\mcrr0084.cs" />
+    <Compile Include="Models\mcrr0085.cs" />
+    <Compile Include="Models\mcrr012.cs" />
+    <Compile Include="Models\mcrr014.cs" />
+    <Compile Include="Models\mcrr015.cs" />
+    <Compile Include="Models\mcrr018.cs" />
+    <Compile Include="Models\mcrr019.cs" />
+    <Compile Include="Models\mcrr020.cs" />
+    <Compile Include="Models\mcrr022.cs" />
+    <Compile Include="Models\mcrr023.cs" />
+    <Compile Include="Models\mcrr024.cs" />
+    <Compile Include="Models\mcrr025.cs" />
+    <Compile Include="Models\mcrr026.cs" />
+    <Compile Include="Models\mcrr028.cs" />
+    <Compile Include="Models\mcrr032.cs" />
+    <Compile Include="Models\mcrr033.cs" />
+    <Compile Include="Models\mcrr036.cs" />
+    <Compile Include="Models\mcrr038.cs" />
+    <Compile Include="Models\mcrr040D.cs" />
+    <Compile Include="Models\mcrr040L.cs" />
+    <Compile Include="Models\mcrr040S.cs" />
+    <Compile Include="Models\mcrr042.cs" />
+    <Compile Include="Models\mcrr044.cs" />
+    <Compile Include="Models\mcrr045.cs" />
+    <Compile Include="Models\mqrr002.cs" />
+    <Compile Include="Models\ntt001.cs" />
+    <Compile Include="Models\prt002.cs" />
+    <Compile Include="Models\prt003.cs" />
+    <Compile Include="Models\prt006.cs" />
+    <Compile Include="Models\prt007.cs" />
+    <Compile Include="Models\prt008.cs" />
+    <Compile Include="Models\prt011.cs" />
+    <Compile Include="Models\prt012.cs" />
+    <Compile Include="Models\prt013.cs" />
+    <Compile Include="Models\prt016.cs" />
+    <Compile Include="Models\prt017.cs" />
+    <Compile Include="Models\prt021.cs" />
+    <Compile Include="Models\prt023.cs" />
+    <Compile Include="Models\prt027.cs" />
+    <Compile Include="Models\prt028.cs" />
+    <Compile Include="Models\prt029.cs" />
+    <Compile Include="Models\prt030.cs" />
+    <Compile Include="Models\prt030D.cs" />
+    <Compile Include="Models\prt031D.cs" />
+    <Compile Include="Models\prt031L.cs" />
+    <Compile Include="Models\prt031S.cs" />
+    <Compile Include="Models\prt032.cs" />
+    <Compile Include="Models\prt033.cs" />
+    <Compile Include="Models\prt034.cs" />
+    <Compile Include="Models\prt035D.cs" />
+    <Compile Include="Models\prt035S.cs" />
+    <Compile Include="Models\prt036D.cs" />
+    <Compile Include="Models\prt036S.cs" />
+    <Compile Include="Models\prt037D.cs" />
+    <Compile Include="Models\prt037S.cs" />
+    <Compile Include="Models\prt053.cs" />
+    <Compile Include="Models\prvacal.cs" />
+    <Compile Include="Models\prvacam.cs" />
+    <Compile Include="Models\sst001.cs" />
+    <Compile Include="Models\sst011.cs" />
+    <Compile Include="Models\sst013.cs" />
+    <Compile Include="Models\sst901.cs" />
+    <Compile Include="Models\sst903.cs" />
+    <Compile Include="Models\prt001.cs" />
+    <Compile Include="Models\prt030L.cs" />
+    <Compile Include="Models\prt030S.cs" />
+    <Compile Include="Models\TINI.cs" />
+    <Compile Include="Models\umenuD.cs" />
+    <Compile Include="Models\umenuS.cs" />
+    <Compile Include="PanelControl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Crpts\CrystalReport_crr001_P.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr001_P.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr001.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr001.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr002.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr002.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr002_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr002_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr004.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr004.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr024_ms.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr024_ms.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr024_cdept.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr024_cdept.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr024_dt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr024_dt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr030S.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr030S.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr031.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr031.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr030.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr030.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr040X.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr040X.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr045.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr045.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr045_xls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr045_xls.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_qrr002_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_qrr002_2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_qrr002_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_qrr002_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_qrr002.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_qrr002.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr044.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr044.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr042.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr042.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr040S.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr040S.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr040L.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr040L.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr038.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr038.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr036.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr036.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr034.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr034.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr033.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr033.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr032.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr032.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr016.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr016.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr015.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr015.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr014.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr014.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr013.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr013.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr012.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr012.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr003.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr003.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr009.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr009.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr007.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr007.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr006.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr006.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr005.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr005.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008_3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008_3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008_2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008_1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008_4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008_4.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr008_5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr008_5.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr018.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr018.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr028.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr028.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr024_xls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr024_xls.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr024.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr024.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr023_xls.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr023_xls.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr023.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr023.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr026.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr026.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr025.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr025.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr022.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr022.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr020.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr020.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crpts\CrystalReport_crr019.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport_crr019.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr045.resx">
+      <DependentUpon>crr045.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri019Q.resx">
+      <DependentUpon>pri019Q.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri046.resx">
+      <DependentUpon>pri046.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri130.resx">
+      <DependentUpon>pri130.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\qrr205.resx">
+      <DependentUpon>qrr205.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr044.resx">
+      <DependentUpon>crr044.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr042.resx">
+      <DependentUpon>crr042.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr030.resx">
+      <DependentUpon>crr030.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr031.resx">
+      <DependentUpon>crr031.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr040.resx">
+      <DependentUpon>crr040.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr038.resx">
+      <DependentUpon>crr038.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr036.resx">
+      <DependentUpon>crr036.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr034.resx">
+      <DependentUpon>crr034.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr033.resx">
+      <DependentUpon>crr033.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr032.resx">
+      <DependentUpon>crr032.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr028.resx">
+      <DependentUpon>crr028.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr024.resx">
+      <DependentUpon>crr024.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr023.resx">
+      <DependentUpon>crr023.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr026.resx">
+      <DependentUpon>crr026.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr025.resx">
+      <DependentUpon>crr025.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr022.resx">
+      <DependentUpon>crr022.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr020.resx">
+      <DependentUpon>crr020.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr019.resx">
+      <DependentUpon>crr019.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr018.resx">
+      <DependentUpon>crr018.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr016.resx">
+      <DependentUpon>crr016.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr015.resx">
+      <DependentUpon>crr015.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr014.resx">
+      <DependentUpon>crr014.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr013.resx">
+      <DependentUpon>crr013.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr012.resx">
+      <DependentUpon>crr012.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr009.resx">
+      <DependentUpon>crr009.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr008.resx">
+      <DependentUpon>crr008.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr007.resx">
+      <DependentUpon>crr007.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr006.resx">
+      <DependentUpon>crr006.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr005.resx">
+      <DependentUpon>crr005.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr004.resx">
+      <DependentUpon>crr004.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr003.resx">
+      <DependentUpon>crr003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr002.resx">
+      <DependentUpon>crr002.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\crr001.resx">
+      <DependentUpon>crr001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR01001.resx">
+      <DependentUpon>PR01001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR01101.resx">
+      <DependentUpon>PR01101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR02001.resx">
+      <DependentUpon>PR02001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR02101.resx">
+      <DependentUpon>PR02101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR03001.resx">
+      <DependentUpon>PR03001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR03101.resx">
+      <DependentUpon>PR03101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR03201.resx">
+      <DependentUpon>PR03201.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR04001.resx">
+      <DependentUpon>PR04001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR04101.resx">
+      <DependentUpon>PR04101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR04201.resx">
+      <DependentUpon>PR04201.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR04301.resx">
+      <DependentUpon>PR04301.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR04401.resx">
+      <DependentUpon>PR04401.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR05001.resx">
+      <DependentUpon>PR05001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR05101.resx">
+      <DependentUpon>PR05101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR05201.resx">
+      <DependentUpon>PR05201.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR06001.resx">
+      <DependentUpon>PR06001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR07001.resx">
+      <DependentUpon>PR07001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR07101.resx">
+      <DependentUpon>PR07101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR07201.resx">
+      <DependentUpon>PR07201.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR07301.resx">
+      <DependentUpon>PR07301.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR08001.resx">
+      <DependentUpon>PR08001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR09001.resx">
+      <DependentUpon>PR09001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR09101.resx">
+      <DependentUpon>PR09101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR10001.resx">
+      <DependentUpon>PR10001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR10101.resx">
+      <DependentUpon>PR10101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR11101.resx">
+      <DependentUpon>PR11101.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Mainbody.resx">
+      <DependentUpon>Mainbody.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\menuw.resx">
+      <DependentUpon>menuw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PR.resx">
+      <DependentUpon>PR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri001.resx">
+      <DependentUpon>pri001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri115.resx">
+      <DependentUpon>pri115.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri110.resx">
+      <DependentUpon>pri110.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri100.resx">
+      <DependentUpon>pri100.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\wPrno.resx">
+      <DependentUpon>wPrno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\wCdept.resx">
+      <DependentUpon>wCdept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri011.resx">
+      <DependentUpon>pri011.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri021.resx">
+      <DependentUpon>pri021.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\prr001.resx">
+      <DependentUpon>prr001.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\prr021.resx">
+      <DependentUpon>prr021.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReportView.resx">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi001w.resx">
+      <DependentUpon>ssi001w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi011.resx">
+      <DependentUpon>ssi011.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi011w.resx">
+      <DependentUpon>ssi011w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri003.resx">
+      <DependentUpon>pri003.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri019.resx">
+      <DependentUpon>pri019.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri006.resx">
+      <DependentUpon>pri006.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri006w.resx">
+      <DependentUpon>pri006w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\nti001w.resx">
+      <DependentUpon>nti001w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri001w.resx">
+      <DependentUpon>pri001w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri022.resx">
+      <DependentUpon>pri022.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi901.resx">
+      <DependentUpon>ssi901.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi901w.resx">
+      <DependentUpon>ssi901w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi903.resx">
+      <DependentUpon>ssi903.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri023.resx">
+      <DependentUpon>pri023.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri038.resx">
+      <DependentUpon>pri038.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri020.resx">
+      <DependentUpon>pri020.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri030.resx">
+      <DependentUpon>pri030.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri019w.resx">
+      <DependentUpon>pri019w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri034.resx">
+      <DependentUpon>pri034.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri035.resx">
+      <DependentUpon>pri035.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri040.resx">
+      <DependentUpon>pri040.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri036.resx">
+      <DependentUpon>pri036.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri037.resx">
+      <DependentUpon>pri037.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri041.resx">
+      <DependentUpon>pri041.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri025.resx">
+      <DependentUpon>pri025.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri027.resx">
+      <DependentUpon>pri027.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri042.resx">
+      <DependentUpon>pri042.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri026.resx">
+      <DependentUpon>pri026.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri043.resx">
+      <DependentUpon>pri043.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri013.resx">
+      <DependentUpon>pri013.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri012.resx">
+      <DependentUpon>pri012.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri0081.resx">
+      <DependentUpon>pri0081.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri008.resx">
+      <DependentUpon>pri008.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi999.resx">
+      <DependentUpon>ssi999.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri044.resx">
+      <DependentUpon>pri044.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri029.resx">
+      <DependentUpon>pri029.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ssi904.resx">
+      <DependentUpon>ssi904.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri045.resx">
+      <DependentUpon>pri045.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\pri016w.resx">
+      <DependentUpon>pri016w.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ICON\1385_Disable_16x16_72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Item.Add.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

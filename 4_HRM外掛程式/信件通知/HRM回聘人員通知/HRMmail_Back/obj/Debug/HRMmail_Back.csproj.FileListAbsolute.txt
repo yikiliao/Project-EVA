@@ -1,0 +1,1 @@
+C:\VS2013\HRMmail_Back\bin\Debug\HRMmail_Back.exe.config

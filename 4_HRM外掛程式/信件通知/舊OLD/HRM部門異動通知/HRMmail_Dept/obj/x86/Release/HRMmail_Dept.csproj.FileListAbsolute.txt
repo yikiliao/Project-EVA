@@ -1,0 +1,57 @@
+C:\CS2010\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+C:\CS2010\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+C:\CS2010\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+C:\CS2010\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+C:\CS2010\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.Cache
+C:\CS2010\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+C:\CS2010\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb
+C:\CS2010\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csprojResolveAssemblyReference.cache
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csprojResolveAssemblyReference.cache
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+C:\CS2010\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.Cache
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+C:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.Cache
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+C:\VS2013\HRM部門異動通知 - 170412\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.Cache
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csprojAssemblyReference.cache
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.cache
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+D:\VS2013\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\bin\Release\HRMmail_Dept.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\bin\Release\HRMmail_Dept.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\bin\Release\HRMmail_Dept.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\obj\x86\Release\HRMmail_Dept.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\obj\x86\Release\HRMmail_Dept.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept - v1\obj\x86\Release\HRMmail_Dept.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\bin\Release\HRMmail_Dept.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM部門異動通知\HRMmail_Dept\obj\x86\Release\HRMmail_Dept.pdb

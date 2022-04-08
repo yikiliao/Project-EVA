@@ -1,0 +1,63 @@
+C:\VS2013\HRM外掛報表 - 改版\MFPD\bin\Release\HRM.exe.config
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\HRM.exe.config
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\HRM.exe
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\HRM.pdb
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\HRM外掛報表 - 改版\HRM\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Form1.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Properties.Resources.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.csproj.GenerateResource.Cache
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.exe
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.pdb
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.Login.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.Home.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm100.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm110.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm120.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.wCdept.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.wPrno.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm130.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm220.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm250.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm270.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm150.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm160.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm180.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm190.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.wSalaryItem.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.hrm230.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.wSItem.resources
+C:\VS2013\HRM外掛報表 - 改版\HRM\obj\x86\Release\HRM.Forms.ssi999.resources
+C:\VS2013\HRM外掛報表\HRM\bin\Release\HRM.exe.config
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.exe
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.pdb
+C:\VS2013\HRM外掛報表\HRM\bin\Release\HRM.exe
+C:\VS2013\HRM外掛報表\HRM\bin\Release\HRM.pdb
+C:\VS2013\HRM外掛報表\HRM\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\HRM外掛報表\HRM\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\HRM外掛報表\HRM\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Form1.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.Home.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm100.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm110.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm120.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm130.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm150.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm160.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm180.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm190.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm220.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm230.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm250.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.hrm270.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.Login.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.ssi999.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.wCdept.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.wPrno.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.wSalaryItem.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Forms.wSItem.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.Properties.Resources.resources
+C:\VS2013\HRM外掛報表\HRM\obj\x86\Release\HRM.csproj.GenerateResource.Cache

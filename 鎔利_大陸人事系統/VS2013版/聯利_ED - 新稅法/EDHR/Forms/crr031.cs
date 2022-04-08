@@ -1,0 +1,275 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using System.Collections;
+using EDHR.Models;
+using EDHR.Crpts;
+
+namespace EDHR.Forms
+{
+    public partial class crr031 : Form
+    {   
+        List<bool> LCdept = new List<bool>();//存 部門勾選
+        List<bool> LPrno = new List<bool>();//存 工號勾選
+        public crr031()
+        {
+            InitializeComponent();            
+            Config.Set_rpFormSize(this);
+            //Home.Id = "yiki";
+            init_Form();
+        }
+
+        private void init_Form()
+        {
+            set_dept();
+            set_printtype();
+            Config.TextReadOnly(f_cdept);
+            Config.TextReadOnly(f_pr_no);
+            f_ckh_isWhiteReport.Checked = false;
+        }
+        private void set_dept()
+        {
+            //--廠部下拉選單            
+            f_comDept.DataSource = sst011.ToDoList(Login.DEPT).ToList();
+            f_comDept.DisplayMember = "dept_name";
+            f_comDept.ValueMember = "dept";
+        }
+        private void set_printtype()
+        {
+            ArrayList data = new ArrayList();
+            data.Add(new DictionaryEntry("日報表", "1"));
+            data.Add(new DictionaryEntry("月報表", "2"));
+            data.Add(new DictionaryEntry("彙總表", "3"));
+            f_com_seltype.DisplayMember = "Key";
+            f_com_seltype.ValueMember = "Value";
+            f_com_seltype.DataSource = data;
+        }
+        
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            wCdept fm = new wCdept(f_comDept.SelectedValue.ToString());//部門
+            fm.LS = LCdept;
+            if (fm.ShowDialog() == DialogResult.OK)
+            {
+                f_cdept.Text = fm.Code as string;
+                LCdept = fm.LS;
+            }
+            init_prno();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string Dept = f_comDept.SelectedValue.ToString();
+            string Cdept = f_cdept.Text;
+            DateTime Beg_date = f_begdate.Value;
+            DateTime End_date = f_enddate.Value;
+            string Prno = f_pr_no.Text;
+
+            string ReportType = f_com_seltype.SelectedValue.ToString();//報表類型
+
+            switch (ReportType)
+            {
+                case "1"://日報
+                    RP1(Dept, Cdept, Beg_date, End_date, Prno);
+                    break;
+                case "2"://月報
+                    RP2(Dept, Cdept, Beg_date, End_date, Prno);
+                    break;
+                case "3"://彙總
+                    RP3(Dept, Cdept, Beg_date, End_date, Prno);
+                    break;
+                default:
+                    Config.Show("不在定義範圍");
+                    break;
+            }            
+        }
+
+        private void RP1(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {
+            string ReportWite = f_ckh_isWhiteReport.Checked == true ? "Y" : "N";//空白格式
+            //列印資料
+            var Org_Color = lb_msg.ForeColor;
+            Cursor_wait(); //改變滑鼠游標漏斗指標
+            if (mcrr032.ToDoList(Dept, Cdept, Beg_date, End_date, Prno).Count() == 0)
+            {
+                Config.Show("...無符合資料...");
+                crystalReportViewer1.ReportSource = null;
+                crystalReportViewer1.Refresh();
+            }
+            else
+            {
+                Print_cs1(Dept, Cdept, Beg_date, End_date, ReportWite, Prno);
+            }
+            UnCursor_wait(Org_Color); //改變滑鼠游標還原預設
+        }
+
+        private void RP2(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {
+            //列印資料
+            var Org_Color = lb_msg.ForeColor;
+            Cursor_wait(); //改變滑鼠游標漏斗指標
+            if (mcrr033.ToDoList(Dept, Cdept, Beg_date, End_date, Prno).Count() == 0)
+            {
+                Config.Show("...無符合資料...");
+                crystalReportViewer1.ReportSource = null;
+                crystalReportViewer1.Refresh();
+            }
+            else
+            {
+                Print_cs2(Dept, Cdept, Beg_date, End_date, Prno);
+            }
+            UnCursor_wait(Org_Color); //改變滑鼠游標還原預設
+        }
+
+        private void RP3(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {
+            //列印資料
+            var Org_Color = lb_msg.ForeColor;
+            Cursor_wait(); //改變滑鼠游標漏斗指標
+            if (mcrr034.ToDoList(Dept, Cdept, Beg_date, End_date, Prno).Count() == 0)
+            {
+                Config.Show("...無符合資料...");
+                crystalReportViewer1.ReportSource = null;
+                crystalReportViewer1.Refresh();
+            }
+            else
+            {
+                Print_cs3(Dept, Cdept, Beg_date, End_date, Prno);
+            }
+            UnCursor_wait(Org_Color); //改變滑鼠游標還原預設
+        }
+
+        private void Cursor_wait()
+        {
+            lb_msg.ForeColor = Color.Blue;
+            lb_msg.Text = "資料處理中...請稍候";
+            System.Threading.Thread.Sleep(1000);//停1秒
+            this.Cursor = Cursors.WaitCursor;//漏斗指標
+        }
+
+        private void UnCursor_wait(System.Drawing.Color Org_Color)
+        {
+            lb_msg.ForeColor = Org_Color;
+            this.Cursor = Cursors.Default;//還原預設
+            lb_msg.Text = "";
+        }
+
+        private void Print_cs1(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string ReportWite, string Prno)
+        {
+            var ReportName = ReportWite == "Y" ? "出勤日報表-空白" : "出勤日報表";
+            CrystalReport_crr032 rp = new CrystalReport_crr032();
+            rp.SetDataSource(mcrr032.ToDoList(Dept, Cdept, Beg_date, End_date, Prno));
+
+            rp.SetParameterValue("CompName", sst011.Get(Login.DEPT).Company_name);//公司名稱           
+            rp.SetParameterValue("ReportName", ReportName);//報表名稱
+            rp.SetParameterValue("ReportCond", f_Cond(Dept, Cdept, Beg_date, End_date, Prno));//列印條件
+            rp.SetParameterValue("ReportId", "crr031");//程式編號 
+            rp.SetParameterValue("ReportWite", ReportWite);//空白日報
+            crystalReportViewer1.ReportSource = rp;
+            crystalReportViewer1.Refresh();
+        }
+
+        private void Print_cs2(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {
+            CrystalReport_crr033 rp = new CrystalReport_crr033();
+            rp.SetDataSource(mcrr033.ToDoList(Dept, Cdept, Beg_date, End_date, Prno));
+
+            rp.SetParameterValue("CompName", sst011.Get(Login.DEPT).Company_name);//公司名稱           
+            rp.SetParameterValue("ReportName", "出勤月報表");//報表名稱
+            rp.SetParameterValue("ReportCond", f_Cond(Dept, Cdept, Beg_date, End_date, Prno));//列印條件
+            rp.SetParameterValue("ReportId", "crr031");//程式編號            
+            crystalReportViewer1.ReportSource = rp;
+            crystalReportViewer1.Refresh();
+        }
+
+        private void Print_cs3(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {
+            CrystalReport_crr034 rp = new CrystalReport_crr034();
+            rp.SetDataSource(mcrr034.ToDoList(Dept, Cdept, Beg_date, End_date, Prno));
+
+            rp.SetParameterValue("CompName", sst011.Get(Login.DEPT).Company_name);//公司名稱            
+            rp.SetParameterValue("ReportName", "出勤彙總表");//報表名稱
+            rp.SetParameterValue("ReportCond", f_Cond(Dept, Cdept, Beg_date, End_date, Prno));//列印條件
+            rp.SetParameterValue("ReportId", "crr031");//程式編號            
+            crystalReportViewer1.ReportSource = rp;
+            crystalReportViewer1.Refresh();
+        }
+
+
+        private string f_Cond(string Dept, string Cdept, DateTime Beg_date, DateTime End_date, string Prno)
+        {            
+            string cond = "";            
+            cond += string.Format(" | 公司={0}", Dept);
+            if (!string.IsNullOrWhiteSpace(Cdept))
+            {
+                cond += string.Format(" | 部門={0}", Cdept);
+            }
+            if (!string.IsNullOrEmpty(Prno))
+            {
+                cond += string.Format(" | 工號={0}", Prno);
+            }
+            cond += string.Format(" | 起始日>={0}", Beg_date.ToString("yyyy/MM/dd"));
+            cond += string.Format(" | 結束日<={0}", End_date.ToString("yyyy/MM/dd"));
+            if (f_ckh_isWhiteReport.Checked==true)  cond += " | 空白日報表";
+            if (cond.Length == 0)
+            {
+                cond = "印全部資料";
+            }
+            return cond;
+        }
+
+        private void init_cdept()
+        {
+            f_cdept.Text = string.Empty;
+            LCdept.Clear();
+        }
+
+        private void init_prno()
+        {
+            f_pr_no.Text = string.Empty;
+            LPrno.Clear();
+        }
+        private void f_com_seltype_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (f_com_seltype.SelectedValue.ToString() != "1")
+            {
+                f_ckh_isWhiteReport.Checked = false;
+                f_ckh_isWhiteReport.Enabled = false;
+            }
+            else
+            {
+                f_ckh_isWhiteReport.Enabled = true;
+            }
+        }
+
+        private void f_comDept_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            init_cdept();
+            init_prno();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var Dept = f_comDept.SelectedValue.ToString();
+            var Cdept = f_cdept.Text;
+            var Type = string.Empty;
+            wPrno fm = new wPrno(Dept, Cdept, Type);
+            fm.LS = LPrno;
+            if (fm.ShowDialog() == DialogResult.OK)
+            {
+                f_pr_no.Text = fm.Code as string;
+                LPrno = fm.LS;
+            }
+        }
+
+        
+    }
+}

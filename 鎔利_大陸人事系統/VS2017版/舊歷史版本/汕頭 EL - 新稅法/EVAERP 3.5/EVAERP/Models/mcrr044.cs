@@ -1,0 +1,104 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using System.Collections;
+using System.Data;
+using EVAERP.Forms;
+
+
+namespace EVAERP.Models
+{
+    class mcrr044
+    {
+        #region 資料屬性
+        public string Dept { get; set; }//廠部
+        public string Pr_No { get; set; }//工號
+        public string Pr_Name { get; set; }//姓名
+        public int Cont_seq { get; set; }//序號
+        public string Job_Name { get; set; } //職稱
+        public string Cdept { get; set; }//部門
+        public string Cdept_Name { get; set; }//部門名稱
+        public string Cont_type { get; set; }//合同類別
+        public string Cont_no { get; set; }//就業證編號
+        public DateTime Beg_date { get; set; }//合同起始日
+        public DateTime End_date { get; set; }//合同終止日
+        public DateTime Rem_date { get; set; }//解除日期
+        public string Rem_no { get; set; }//解除證書號
+        public string Rem_code { get; set; }//解除原因
+        public string Pr_sex { get; set; }//性別
+        public string pr_idno { get; set; }//身分證號
+
+        public string Pr_Local { get; set; }//籍貫
+        public DateTime Pr_In_Date { get; set; }//入廠日
+
+        public DateTime Pr_Insr_Date { get; set; }//入保日 
+        public DateTime Pr_Back_Insr_Date { get; set; }//退保日
+        public string Address { get; set; }//地址
+
+        public Int32 Cont_year { get; set; }//合同期限年
+        public Int32 Cont_month { get; set; }//合同期限月
+        #endregion
+
+        public static IEnumerable<mcrr044> ToDoList(string Dept, string Pr_no, Int32 Cont_seq)
+        {
+            string sql = null;
+            ArrayList parm = new ArrayList();
+            parm.Add(Dept);
+            sql = null;
+
+            sql += "select prt023.*,prt016.pr_name,prt003.code_desc a,prt002.code_desc b,prt016.pr_cdept,prt016.pr_sex,prt016.pr_idno,";
+            sql += " prt016.pr_local,prt016.pr_in_date,prt016.pr_back_Insr_date,prt016.pr_insr_date from prt023";
+            sql += " LEFT OUTER JOIN prt016 on prt016.pr_no = prt023.pr_no";            
+            sql += " LEFT OUTER JOIN prt002 on prt002.code = prt016.[position]";
+            sql += " LEFT OUTER JOIN prt003 on prt003.code = prt016.pr_work";
+            sql += " where 1=1";
+            sql += " and LEN(prt023.rem_no) >0";
+            sql += " and prt023.dept=?";
+
+            if (!string.IsNullOrEmpty(Pr_no.Trim()))
+            {
+                sql += " and prt023.pr_no in " + String.Format("({0})", Pr_no.Trim());
+            }
+            if (Cont_seq > 0)
+            {
+                parm.Add(Cont_seq);
+                sql += " and prt023.cont_seq = ?";
+            }
+            sql += " order by prt023.pr_no,prt023.cont_seq ";
+
+            DataSet DeptDS = DBConnector.executeQuery(Conn.GetStr(Login.DB), sql, parm);
+            return from p in DeptDS.Tables[0].AsEnumerable()
+                   select new mcrr044
+                   {
+                       Dept = p.IsNull("dept") ? "" : p.Field<string>("dept").Trim(),
+                       Pr_No = p.IsNull("pr_no") ? "" : p.Field<string>("pr_no").Trim(),
+                       Pr_Name = p.IsNull("pr_name") ? "" : p.Field<string>("pr_name").Trim(),
+                       Cont_seq = p.IsNull("cont_seq") ? 0 : p.Field<int>("cont_seq"),
+                       Job_Name = string.Format("{0}{1}", p.IsNull("a") ? "" : p.Field<string>("a").Trim(), p.IsNull("b") ? "" : p.Field<string>("b").Trim()),
+                       Cdept = p.IsNull("pr_cdept") ? "" : p.Field<string>("pr_cdept").Trim(),
+                       Cdept_Name = prt001.Get(p.Field<string>("pr_cdept").Trim()) ==null ?"" : prt001.Get(p.Field<string>("pr_cdept").Trim()).Department_name_new,                       
+                       Cont_type = p.IsNull("cont_type") ? "" : p.Field<string>("cont_type").Trim(),
+                       Cont_no = p.IsNull("cont_no") ? "" : p.Field<string>("cont_no").Trim(),
+                       Beg_date = p.IsNull("beg_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("beg_date").Trim()),
+                       End_date = p.IsNull("end_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("end_date").Trim()),
+                       Rem_date = p.IsNull("rem_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("rem_date").Trim()),
+                       Rem_no = p.IsNull("rem_no") ? "" : p.Field<string>("rem_no").Trim(),
+                       Rem_code = p.IsNull("rem_code") ? "" : p.Field<string>("rem_code").Trim(),
+                       Pr_sex = p.IsNull("pr_sex") ? "" : p.Field<string>("pr_sex").Trim(),
+                       pr_idno = p.IsNull("pr_idno") ? "" : p.Field<string>("pr_idno").Trim(),
+                       Pr_Local = p.IsNull("pr_local") ? "" : p.Field<string>("pr_local").Trim(),
+                       Pr_In_Date = p.IsNull("pr_in_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("pr_in_date").Trim()),
+                       Pr_Insr_Date = p.IsNull("pr_insr_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("pr_insr_date").Trim()),
+                       Pr_Back_Insr_Date = p.IsNull("pr_back_insr_date") ? System.Convert.ToDateTime("1800-01-01") : System.Convert.ToDateTime(p.Field<string>("pr_back_insr_date").Trim()),
+                       Cont_year = p.IsNull("cont_year") ? 0 : p.Field<Int32>("cont_year"),
+                       Cont_month = p.IsNull("cont_month") ? 0 : p.Field<Int32>("cont_month"),
+                   };
+
+        }
+
+
+    }
+}

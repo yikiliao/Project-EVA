@@ -1,0 +1,50 @@
+C:\CS2010\HRMmail_New\bin\Release\HRMmail_New.exe.config
+C:\CS2010\HRMmail_New\bin\Release\HRMmail_New.exe
+C:\CS2010\HRMmail_New\bin\Release\HRMmail_New.pdb
+C:\CS2010\HRMmail_New\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+C:\CS2010\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.GenerateResource.Cache
+C:\CS2010\HRMmail_New\obj\x86\Release\HRMmail_New.exe
+C:\CS2010\HRMmail_New\obj\x86\Release\HRMmail_New.pdb
+C:\CS2010\HRMmail_New\obj\x86\Release\HRMmail_New.csprojResolveAssemblyReference.cache
+C:\CS2010\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe.config
+C:\CS2010\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.exe
+C:\CS2010\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.pdb
+C:\CS2010\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe
+C:\CS2010\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.pdb
+C:\CS2010\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csprojResolveAssemblyReference.cache
+C:\CS2010\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+C:\CS2010\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.GenerateResource.Cache
+C:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe.config
+C:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.exe
+C:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.pdb
+C:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe
+C:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.pdb
+C:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+C:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.GenerateResource.Cache
+D:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe.config
+D:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe
+D:\VS2013\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.pdb
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csprojAssemblyReference.cache
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.GenerateResource.cache
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.CoreCompileInputs.cache
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.exe
+D:\VS2013\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\bin\Release\HRMmail_New.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\bin\Release\HRMmail_New.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\bin\Release\HRMmail_New.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\obj\x86\Release\HRMmail_New.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\obj\x86\Release\HRMmail_New.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\obj\x86\Release\HRMmail_New.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New - v1\obj\x86\Release\HRMmail_New.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe.config
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\bin\Release\HRMmail_New.pdb
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.Properties.Resources.resources
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.exe
+D:\鎔利\鍾VS2017原始\HRM外掛系統\HRM新進人員通知\HRMmail_New\obj\x86\Release\HRMmail_New.pdb

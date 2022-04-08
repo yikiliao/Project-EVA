@@ -1,0 +1,20 @@
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.pdb
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.csprojResolveAssemblyReference.cache
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.csproj.GenerateResource.Cache
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.exe
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.pdb
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\bin\Release\EVAERPHolday.exe
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\bin\Release\EVAERPHolday.pdb
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.csprojAssemblyReference.cache
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.Properties.Resources.resources
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.csproj.GenerateResource.cache
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.csproj.CoreCompileInputs.cache
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.exe
+D:\歸類資料\1_鎔利\鎔利_大陸人事系統\移轉程式\特休假計算\汕頭 - 特休假(每年1215號算)\EVAERPHolday\obj\Release\EVAERPHolday.pdb

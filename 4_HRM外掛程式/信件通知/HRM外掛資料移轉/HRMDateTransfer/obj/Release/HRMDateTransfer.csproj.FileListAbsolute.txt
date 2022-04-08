@@ -1,0 +1,16 @@
+C:\VS2013\HRM外掛資料移轉\MailNotice\bin\Release\MailNotice.exe.config
+C:\VS2013\HRM外掛資料移轉\MailNotice\bin\Release\MailNotice.exe
+C:\VS2013\HRM外掛資料移轉\MailNotice\bin\Release\MailNotice.pdb
+C:\VS2013\HRM外掛資料移轉\MailNotice\obj\Release\HRMDateTransfer.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM外掛資料移轉\MailNotice\obj\Release\HRMDateTransfer.Properties.Resources.resources
+C:\VS2013\HRM外掛資料移轉\MailNotice\obj\Release\HRMDateTransfer.csproj.GenerateResource.Cache
+C:\VS2013\HRM外掛資料移轉\MailNotice\obj\Release\MailNotice.exe
+C:\VS2013\HRM外掛資料移轉\MailNotice\obj\Release\MailNotice.pdb
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\bin\Release\HRMDateTransfer.exe.config
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\bin\Release\HRMDateTransfer.exe
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\bin\Release\HRMDateTransfer.pdb
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\obj\Release\HRMDateTransfer.csprojResolveAssemblyReference.cache
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\obj\Release\HRMDateTransfer.Properties.Resources.resources
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\obj\Release\HRMDateTransfer.csproj.GenerateResource.Cache
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\obj\Release\HRMDateTransfer.exe
+C:\VS2013\HRM外掛資料移轉\HRMDateTransfer\obj\Release\HRMDateTransfer.pdb

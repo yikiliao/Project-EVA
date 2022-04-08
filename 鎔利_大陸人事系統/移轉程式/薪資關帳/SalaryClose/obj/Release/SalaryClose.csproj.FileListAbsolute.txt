@@ -1,0 +1,25 @@
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\obj\Release\SalaryClose.csprojResolveAssemblyReference.cache
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\obj\Release\SalaryClose.Properties.Resources.resources
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\obj\Release\SalaryClose.csproj.GenerateResource.Cache
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\bin\Release\SalaryClose.exe.config
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\bin\Release\SalaryClose.exe
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\bin\Release\SalaryClose.pdb
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\obj\Release\SalaryClose.exe
+C:\VS2013\大陸薪資關帳\HRMmail_Leav\obj\Release\SalaryClose.pdb
+C:\VS2013\大陸薪資關帳\SalaryClose\bin\Release\SalaryClose.exe.config
+C:\VS2013\大陸薪資關帳\SalaryClose\obj\Release\SalaryClose.exe
+C:\VS2013\大陸薪資關帳\SalaryClose\obj\Release\SalaryClose.pdb
+C:\VS2013\大陸薪資關帳\SalaryClose\bin\Release\SalaryClose.exe
+C:\VS2013\大陸薪資關帳\SalaryClose\bin\Release\SalaryClose.pdb
+C:\VS2013\大陸薪資關帳\SalaryClose\obj\Release\SalaryClose.csprojResolveAssemblyReference.cache
+C:\VS2013\大陸薪資關帳\SalaryClose\obj\Release\SalaryClose.Properties.Resources.resources
+C:\VS2013\大陸薪資關帳\SalaryClose\obj\Release\SalaryClose.csproj.GenerateResource.Cache
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\bin\Release\SalaryClose.exe.config
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\bin\Release\SalaryClose.exe
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\bin\Release\SalaryClose.pdb
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.csprojAssemblyReference.cache
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.Properties.Resources.resources
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.csproj.GenerateResource.cache
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.csproj.CoreCompileInputs.cache
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.exe
+D:\鎔利\海外人資系統\薪資關帳 -  new\SalaryClose\obj\Release\SalaryClose.pdb

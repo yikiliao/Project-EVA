@@ -1,0 +1,16 @@
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Debug\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\bin\Debug\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2021\obj\Debug\EVAERPHolday.csproj.GenerateResource.Cache

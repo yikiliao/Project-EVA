@@ -1,0 +1,60 @@
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.pdb
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.csprojResolveAssemblyReference.cache
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.csproj.GenerateResource.Cache
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.exe
+C:\VS2013\EVAERP大陸特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\EVAERPHolday\obj\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.Properties.Resources.resources
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\obj\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\bin\Release\EVAERPHolday.exe.config
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\bin\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\汕頭 - 特休假 - new\EVAERPHolday\bin\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\bin\Release\EVAERPHolday.exe.config
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\bin\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\bin\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.Properties.Resources.resources
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - v1\obj\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\bin\Release\EVAERPHolday.exe.config
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\bin\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\bin\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\obj\Release\EVAERPHolday.Properties.Resources.resources
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\obj\Release\EVAERPHolday.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\obj\Release\EVAERPHolday.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\obj\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(每天算)\EVAERPHolday - 算2020 - v1\obj\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe.config
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.Properties.Resources.resources
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.exe
+D:\鎔利\鍾VS2013原始\大陸人資\特休計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數統計(算2020)\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe.config
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.exe
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\bin\Release\EVAERPHolday.pdb
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.Properties.Resources.resources
+C:\VS2013\海外人資系統\特休假計算\大陸OA請休時數\EVAERPHolday - 算2020\obj\Release\EVAERPHolday.csproj.GenerateResource.Cache

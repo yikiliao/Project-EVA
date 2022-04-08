@@ -1,0 +1,1319 @@
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\新聯利 ED\ESHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\新聯利 ED\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\薪資系統\Z新聯利 ED\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\薪資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe.config
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.exe
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.pdb
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.pdb
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\Users\Administrator\Desktop\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.exe.config
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.exe
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.pdb
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportSource.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.Shared.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\AxShockwaveFlashObjects.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\ShockwaveFlashObjects.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\bin\Release\stdole.dll
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csprojAssemblyReference.cache
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Form1.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019Q.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.cache
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csproj.CoreCompileInputs.cache
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csproj.CopyComplete
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.exe
+D:\鎔利\鍾VS2013原始\大陸人資\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri019Q.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - V2\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法\EDHR\obj\x86\Release\EDHR.Forms.pri019Q.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.exe.config
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.exe
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\bin\Release\EDHR.pdb
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csprojResolveAssemblyReference.cache
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Form1.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019Q.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri046.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri130.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.qrr205.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr031.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr033.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr032.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr028.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr024.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr018.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr016.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr015.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr014.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr009.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr007.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr005.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr004.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr002.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.crr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Login.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR01001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR01101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR02001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR02101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR03201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR04401.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR05201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR06001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07201.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR07301.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR08001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR09001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR09101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR10001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR10101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR11101.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Mainbody.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.Home.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.menuw.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.PR.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri115.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri110.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri100.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.wPrno.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.wCdept.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.prr001.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.prr021.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ReportView.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi011.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi011w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri003.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri006.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri006w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.nti001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri001w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri022.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi901.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi901w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi903.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri023.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri038.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri020.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri030.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri019w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri034.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri035.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri040.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri036.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri037.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri041.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri025.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri027.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri042.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri026.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri043.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri013.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri012.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri0081.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri008.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi999.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri044.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri029.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.ssi904.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri045.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Forms.pri016w.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.Properties.Resources.resources
+C:\VS2013\海外人資系統\聯利 ED - 新稅法 - new\EDHR\obj\x86\Release\EDHR.csproj.GenerateResource.Cache
